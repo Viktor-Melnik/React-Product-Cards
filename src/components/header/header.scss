@@ -1,0 +1,29 @@
+.home__header {
+    // background-color: rgba($color: #000000, $alpha: 0.1);
+    background-color: teal;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    box-shadow: inset 0 -3em 3em rgba(0, 0, 0, 0.1), 0 0 0 2px rgb(0, 0, 0),
+    0.3em 0.3em 1em rgba(0, 0, 0, 0.3);
+    position: fixed;
+    width: 100%;
+}
+
+.header__logo {
+    color: white;
+    padding-left: 50px;
+}
+
+.header__icons_container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-right: 50px;
+    gap: 20px;
+}
+
+.header__counter {
+    color: white;
+    font-size: 40px;
+}

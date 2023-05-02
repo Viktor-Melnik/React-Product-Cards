@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "name": "Cap",
+    "price": 3000,
+    "imageUrl": "./img/cap_blue.jpg",
+    "article": 123456,
+    "color": "Blue"
+  },
+  {
+    "id": 2,
+    "name": "Cap",
+    "price": 5000,
+    "imageUrl": "./img/cap_yellow.jpg",
+    "article": 789012,
+    "color": "Yellow"
+  },
+  {
+    "id": 3,
+    "name": "Pants",
+    "price": 2000,
+    "imageUrl": "./img/pants_blue.jpg",
+    "article": 345678,
+    "color": "Blue"
+  },
+  {
+    "id": 4,
+    "name": "Pants",
+    "price": 2500,
+    "imageUrl": "./img/pants_brown.jpg",
+    "article": 901234,
+    "color": "Brown"
+  },
+  {
+    "id": 5,
+    "name": "Shirt",
+    "price": 4000,
+    "imageUrl": "./img/shirt_blue_1.jpg",
+    "article": 567890,
+    "color": "Blue"
+  },
+  {
+    "id": 6,
+    "name": "Shirt",
+    "price": 1500,
+    "imageUrl": "./img/shirt_blue_2.jpg",
+    "article": 234567,
+    "color": "Blue"
+  },
+  {
+    "id": 7,
+    "name": "Shirt",
+    "price": 1000,
+    "imageUrl": "./img/shirt_white_1.jpg",
+    "article": 890123,
+    "color": "White"
+  },
+  {
+    "id": 8,
+    "name": "Shirt",
+    "price": 1800,
+    "imageUrl": "./img/shirt_white_2.jpg",
+    "article": 456789,
+    "color": "White"
+  },
+  {
+    "id": 9,
+    "name": "Sneakers",
+    "price": 3500,
+    "imageUrl": "./img/sneakers_blue.jpg",
+    "article": 912345,
+    "color": "Blue"
+  },
+  {
+    "id": 10,
+    "name": "Sneakers",
+    "price": 1200,
+    "imageUrl": "./img/sneakers_white.jpg",
+    "article": 678901,
+    "color": "White"
+  },
+  {
+    "id": 11,
+    "name": "Sneakers",
+    "price": 3200,
+    "imageUrl": "./img/sneakers_yellow_1.jpg",
+    "article": 673455,
+    "color": "Yellow"
+  },
+  {
+    "id": 12,
+    "name": "Sneakers",
+    "price": 4200,
+    "imageUrl": "./img/sneakers_yellow_2.jpg",
+    "article": 670901,
+    "color": "Yellow"
+  }
+]
